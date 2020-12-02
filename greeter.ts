@@ -38,3 +38,11 @@ interface LabeledValue {
   for (let entry of someArray) {
     console.log(entry);
   };
+
+
+  // typeScript = javascript superset
+  // browsers and node cannot execute typescript
+  /* 
+    Good work today!
+
+  */
